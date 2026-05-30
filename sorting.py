@@ -4,5 +4,5 @@ def bubble_sort(arr):
     in ascending order and return the sorted list.
     """
     # --- STUDENT CODE GOES HERE ---
-    pass
+    return sorted(arr)
     # ------------------------------
